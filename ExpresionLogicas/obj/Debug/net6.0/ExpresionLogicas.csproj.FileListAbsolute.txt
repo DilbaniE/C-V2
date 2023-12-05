@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\bin\Debug\net6.0\ExpresionLogicas.exe
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\bin\Debug\net6.0\ExpresionLogicas.deps.json
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\bin\Debug\net6.0\ExpresionLogicas.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\bin\Debug\net6.0\ExpresionLogicas.dll
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\bin\Debug\net6.0\ExpresionLogicas.pdb
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.dll
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\refint\ExpresionLogicas.dll
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.pdb
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ExpresionLogicas.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\ExpresionLogicas\obj\Debug\net6.0\ref\ExpresionLogicas.dll
