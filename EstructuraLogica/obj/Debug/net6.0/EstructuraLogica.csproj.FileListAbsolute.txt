@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\bin\Debug\net6.0\EstructuraLogica.exe
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\bin\Debug\net6.0\EstructuraLogica.deps.json
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\bin\Debug\net6.0\EstructuraLogica.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\bin\Debug\net6.0\EstructuraLogica.dll
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\bin\Debug\net6.0\EstructuraLogica.pdb
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.dll
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\refint\EstructuraLogica.dll
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.pdb
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\EstructuraLogica.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\EstructuraLogica\obj\Debug\net6.0\ref\EstructuraLogica.dll
