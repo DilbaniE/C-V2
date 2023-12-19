@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\bin\Debug\net6.0\Ejemplo metodos.exe
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\bin\Debug\net6.0\Ejemplo metodos.deps.json
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\bin\Debug\net6.0\Ejemplo metodos.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\bin\Debug\net6.0\Ejemplo metodos.dll
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\bin\Debug\net6.0\Ejemplo metodos.pdb
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.dll
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\refint\Ejemplo metodos.dll
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.pdb
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\Ejemplo metodos.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\Ejemplo metodos\obj\Debug\net6.0\ref\Ejemplo metodos.dll

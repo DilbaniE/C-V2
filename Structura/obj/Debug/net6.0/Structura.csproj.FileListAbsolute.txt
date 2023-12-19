@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\Structura\bin\Debug\net6.0\Structura.exe
+C:\Users\claudia.enriquez\source\repos\Structura\bin\Debug\net6.0\Structura.deps.json
+C:\Users\claudia.enriquez\source\repos\Structura\bin\Debug\net6.0\Structura.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\Structura\bin\Debug\net6.0\Structura.dll
+C:\Users\claudia.enriquez\source\repos\Structura\bin\Debug\net6.0\Structura.pdb
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.dll
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\refint\Structura.dll
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.pdb
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\Structura.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\Structura\obj\Debug\net6.0\ref\Structura.dll
