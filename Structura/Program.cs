@@ -13,22 +13,18 @@ namespace Structura
             {
                 calle = pCalle;
                 numero = pNumero;
-
-
             }
 
             public override String ToString()
             {
                 StringBuilder sb = new StringBuilder();
-                sb.AppendFormat("Direccion: {0}, #{1}", calle, numero);
+                sb.AppendFormat(" Direccion: {0}, #{1}", calle, numero);
                 return (sb.ToString());
 
             }
             
         }
-
-
-        public struct Agenda
+          public struct Agenda
         {
             public String nombre;
             public String telefono;
@@ -47,13 +43,11 @@ namespace Structura
                 // validacion 
                 if (pTelefono.Length > 8) {
                     telefono = pTelefono;
-
                 }
                 else
                 {
                     telefono = "telefono no valido, verificar";
                 }
-
                 Domicilio = new Direccion(pCalle, pNumero);
             }
 
