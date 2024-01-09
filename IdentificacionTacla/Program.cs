@@ -9,7 +9,6 @@
             char tecla;
             string optio;
            
-
             do
             {
                 Console.WriteLine("Digite una tecla");
@@ -48,6 +47,9 @@
             } while (optio == "si");            
             Console.WriteLine("Digite una tecla para salir");*/
 
+
+
+            //Multiplicacion mediante estructura
             int num, i, result;
 
             Console.WriteLine("ingrese un numero");
