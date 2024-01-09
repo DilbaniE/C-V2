@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\bin\Debug\net6.0\CreacionArchivos.exe
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\bin\Debug\net6.0\CreacionArchivos.deps.json
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\bin\Debug\net6.0\CreacionArchivos.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\bin\Debug\net6.0\CreacionArchivos.dll
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\bin\Debug\net6.0\CreacionArchivos.pdb
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.dll
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\refint\CreacionArchivos.dll
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.pdb
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\CreacionArchivos.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\CreacionArchivos\obj\Debug\net6.0\ref\CreacionArchivos.dll

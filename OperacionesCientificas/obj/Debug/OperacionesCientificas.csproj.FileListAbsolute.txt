@@ -1,0 +1,7 @@
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\bin\Debug\OperacionesCientificas.exe.config
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\bin\Debug\OperacionesCientificas.exe
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\bin\Debug\OperacionesCientificas.pdb
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\obj\Debug\OperacionesCientificas.csproj.AssemblyReference.cache
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\obj\Debug\OperacionesCientificas.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\obj\Debug\OperacionesCientificas.exe
+C:\Users\claudia.enriquez\source\repos\OperacionesCientificas\obj\Debug\OperacionesCientificas.pdb

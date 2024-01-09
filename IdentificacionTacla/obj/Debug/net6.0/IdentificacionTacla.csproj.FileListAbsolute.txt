@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\bin\Debug\net6.0\IdentificacionTacla.exe
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\bin\Debug\net6.0\IdentificacionTacla.deps.json
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\bin\Debug\net6.0\IdentificacionTacla.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\bin\Debug\net6.0\IdentificacionTacla.dll
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\bin\Debug\net6.0\IdentificacionTacla.pdb
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.dll
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\refint\IdentificacionTacla.dll
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.pdb
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\IdentificacionTacla.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\IdentificacionTacla\obj\Debug\net6.0\ref\IdentificacionTacla.dll

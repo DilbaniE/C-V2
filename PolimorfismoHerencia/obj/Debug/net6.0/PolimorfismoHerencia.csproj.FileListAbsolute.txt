@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\bin\Debug\net6.0\PolimorfismoHerencia.exe
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\bin\Debug\net6.0\PolimorfismoHerencia.deps.json
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\bin\Debug\net6.0\PolimorfismoHerencia.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\bin\Debug\net6.0\PolimorfismoHerencia.dll
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\bin\Debug\net6.0\PolimorfismoHerencia.pdb
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.dll
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\refint\PolimorfismoHerencia.dll
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.pdb
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\PolimorfismoHerencia.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\PolimorfismoHerencia\obj\Debug\net6.0\ref\PolimorfismoHerencia.dll
