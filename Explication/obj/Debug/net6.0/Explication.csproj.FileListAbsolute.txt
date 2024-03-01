@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\Explication\bin\Debug\net6.0\Explication.exe
+C:\Users\claudia.enriquez\source\repos\Explication\bin\Debug\net6.0\Explication.deps.json
+C:\Users\claudia.enriquez\source\repos\Explication\bin\Debug\net6.0\Explication.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\Explication\bin\Debug\net6.0\Explication.dll
+C:\Users\claudia.enriquez\source\repos\Explication\bin\Debug\net6.0\Explication.pdb
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.dll
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\refint\Explication.dll
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.pdb
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\Explication.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\Explication\obj\Debug\net6.0\ref\Explication.dll
