@@ -1,0 +1,12 @@
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,10 @@
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\claudia.enriquez\source\repos\SolutionTest\CapaDatos\obj\Debug\CapaDatos.pdb
